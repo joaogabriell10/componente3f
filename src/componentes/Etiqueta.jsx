@@ -1,4 +1,4 @@
-const Etiqueta = ()=> {
+const Etiqueta = (props)=> {
 
     var textoPadrao = "Texto Padrão da Etiqueta"
 
